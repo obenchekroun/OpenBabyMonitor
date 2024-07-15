@@ -1,6 +1,7 @@
 #!/bin/bash
 
-CONNECTED_RESULT='supported=1 detected=1'
+#CONNECTED_RESULT='supported=1 detected=1'
+CONNECTED_RESULT='supported=1 detected=1, libcamera interfaces=0'
 RESULT=$(vcgencmd get_camera)
 
 case $CONNECTED_RESULT in
