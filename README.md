@@ -135,6 +135,7 @@ Based on this, a 5000mAh 5V battery powering a Pi Zero baby monitor should last 
 ## Manual setup
 
 1. Write a [Raspbian Buster Lite image](https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2020-02-14/2020-02-13-raspbian-buster-lite.zip) to a MicroSD card, using for instance the [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+ - use this one : 2021-05-07-raspios-buster-armhf-lite.zip
 
 2. Create an empty file called `ssh` and a text file called `wpa_supplicant.conf` containing
     ```
