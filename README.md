@@ -166,7 +166,7 @@ Based on this, a 5000mAh 5V battery powering a Pi Zero baby monitor should last 
 
 6. Use Git to clone the `OpenBabyMonitor` source code repository:
     ```
-    git clone https://github.com/lars-frogner/OpenBabyMonitor.git
+    git clone https://github.com/obenchekroun/OpenBabyMonitor.git
     ```
 
 7. (Optional) Edit environment variables in `OpenBabyMonitor/config/setup_config.env`. The default version of the file looks like this:
